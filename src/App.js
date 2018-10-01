@@ -43,7 +43,7 @@ class NewTodos extends Component{
   }
 }
 
-class App extends Component {
+class ListApp extends Component {
 
   constructor(props){
     super(props);
@@ -67,4 +67,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default ListApp;
